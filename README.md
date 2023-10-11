@@ -5,7 +5,8 @@
 💪 Crushing challenges with the mightiest algorithms <br>
 🔮 Unleashing the power of the command line <br>
 📜 "What is best in life? To code your enemies, see your programs run, and hear the cheers of users!" <br> 
--- Codean the Barbarian
+<br>
+\- Codean the Barbarian
 
 <!---
 chrisanilao/chrisanilao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
